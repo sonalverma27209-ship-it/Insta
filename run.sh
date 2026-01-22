@@ -2,4 +2,4 @@
 
 clear
 echo "Starting SHIVANSHI Instagram OSINT Tool"
-python insta.py
+python Insta.py

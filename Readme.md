@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2>🔍 About</h2>
+<h2> About</h2>
 
 <p>
 The most common form of online intelligence gathering is collecting
@@ -24,7 +24,7 @@ that is already publicly accessible.
 
 <hr>
 
-<h2>⚠️ Disclaimer</h2>
+<h2>Disclaimer</h2>
 
 <p>
 This project is created strictly for <b>educational, learning, and legal
@@ -43,7 +43,7 @@ The author is not responsible for misuse.
 
 <hr>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 
 <ul>
   <li>Simple and clean terminal interface</li>
@@ -55,7 +55,7 @@ The author is not responsible for misuse.
 
 <hr>
 
-<h2>📦 Requirements</h2>
+<h2> Requirements</h2>
 
 <p>You need <b>Python 3</b> to run this tool.</p>
 
@@ -67,47 +67,47 @@ The author is not responsible for misuse.
 
 <hr>
 
-<h2>🚀 Quick Start and Setup for Kali Linux</h2>
+<h2> Quick Start and Setup for Kali Linux</h2>
 
 <pre>
 sudo apt update
 sudo apt install git python3 curl wget -y
-git clone https://github.com/yourusername/shivanshi-osint.git
-cd shivanshi-osint
+git clone https://github.com/sonalverma27209-ship-it/Insta.git
+cd Insta
 chmod +x *
-python3 shivanshi.py -h
-python3 shivanshi.py
+python3 Insta.py -h
+python3 Insta.py
 </pre>
 
 <hr>
 
-<h2>📱 Quick Start and Setup for Termux</h2>
+<h2>Quick Start and Setup for Termux</h2>
 
 <pre>
 pkg update && pkg upgrade -y
 pkg install git python curl wget -y
-git clone https://github.com/yourusername/shivanshi-osint.git
-cd shivanshi-osint
+git clone https://github.com/sonalverma27209-ship-it/Insta.git
+cd Insta
 chmod +x *
-python shivanshi.py
+python Insta.py
 </pre>
 
 <hr>
 
-<h2>📂 Project Structure</h2>
+<h2> Project Structure</h2>
 
 <pre>
-shivanshi-osint/
+Insta/
 │
-├── shivanshi.py
+├── Insta.py
 ├── README.md
 ├── LICENSE
-└── requirements.txt
+└── Setup.sh
 </pre>
 
 <hr>
 
-<h2>❓ Common Issues</h2>
+<h2> Common Issues</h2>
 
 <ul>
   <li><b>Python not found:</b> Make sure Python 3 is installed</li>
@@ -117,7 +117,7 @@ shivanshi-osint/
 
 <hr>
 
-<h2>📜 License</h2>
+<h2> License</h2>
 
 <p>
 This project is licensed under the <b>GPL-3.0 License</b>.
@@ -125,7 +125,7 @@ This project is licensed under the <b>GPL-3.0 License</b>.
 
 <hr>
 
-<h2>👤 Author</h2>
+<h2> Author</h2>
 
 <p>
 <b>SHIVANSHI</b><br>
